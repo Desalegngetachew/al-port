@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["ደሳለኝ በፍቅሬ አበደ","ቆንጆ", "ቅምም", "ተወዳጅ","ማር" ,"አንደኛ"],
+    strings: ["ደሳለኝ በውበቴ በፍቅር ወደቀ", "ቆንጆ", "ቅምም", "ተወዳጅ", "ማር", "አንደኛ"],
     typeSpeed: 60,
     startDelay: 900,
     showCursor: false,
