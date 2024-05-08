@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["ድንቅ ልጅ", "ቆንጆ", "ቅመም","የፍቅር ሃከር ነኝ", "ተወዳጅ", "ማር", "አንደኛ"],
+    strings: ["Adobe suite tools", "JavaScript", "PHP","Flutter", "HTML", "Tailwind CSS", "React", "Vue","C++","MySQL","Java","MS offfice"],
     typeSpeed: 60,
     startDelay: 900,
     showCursor: false,
